@@ -1,0 +1,210 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,Gamebg_jpg,idel4_L_png,move1_L_png,move3_L_png,move2_L_png,move4_L_png,idel1_L_png,idel2_L_png,idel3_L_png,move4_R_png,idel3_R_png,idel2_R_png,idel1_R_png,idel4_R_png,move1_R_png,move2_R_png,move3_R_png,tile_2_png,tile_1_png,npc_0_taskAcceptable_png,npc_0_taskDuring_png,npc_1_nullIcon_png,npc_0_taskFinish_png,npc_1_taskFinish_png,npc_1_taskAcceptable_png,npc_0_nullIcon_png,npc_1_taskDuring_png,Finish_png,Close_png,Accept_png,Kill_png,DialogueBg_png,S_Setuper_png,S_Prinz Eugen_jpg,S_FuMO25_png,S_SKC34_png,S_Watcher_png,Close_s_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/Gamebg.jpg",
+			"type": "image",
+			"name": "Gamebg_jpg"
+		},
+		{
+			"url": "assets/idel4_L.png",
+			"type": "image",
+			"name": "idel4_L_png"
+		},
+		{
+			"url": "assets/move1_L.png",
+			"type": "image",
+			"name": "move1_L_png"
+		},
+		{
+			"url": "assets/move3_L.png",
+			"type": "image",
+			"name": "move3_L_png"
+		},
+		{
+			"url": "assets/move2_L.png",
+			"type": "image",
+			"name": "move2_L_png"
+		},
+		{
+			"url": "assets/move4_L.png",
+			"type": "image",
+			"name": "move4_L_png"
+		},
+		{
+			"url": "assets/idel1_L.png",
+			"type": "image",
+			"name": "idel1_L_png"
+		},
+		{
+			"url": "assets/idel2_L.png",
+			"type": "image",
+			"name": "idel2_L_png"
+		},
+		{
+			"url": "assets/idel3_L.png",
+			"type": "image",
+			"name": "idel3_L_png"
+		},
+		{
+			"url": "assets/move4_R.png",
+			"type": "image",
+			"name": "move4_R_png"
+		},
+		{
+			"url": "assets/idel3_R.png",
+			"type": "image",
+			"name": "idel3_R_png"
+		},
+		{
+			"url": "assets/idel2_R.png",
+			"type": "image",
+			"name": "idel2_R_png"
+		},
+		{
+			"url": "assets/idel1_R.png",
+			"type": "image",
+			"name": "idel1_R_png"
+		},
+		{
+			"url": "assets/idel4_R.png",
+			"type": "image",
+			"name": "idel4_R_png"
+		},
+		{
+			"url": "assets/move1_R.png",
+			"type": "image",
+			"name": "move1_R_png"
+		},
+		{
+			"url": "assets/move2_R.png",
+			"type": "image",
+			"name": "move2_R_png"
+		},
+		{
+			"url": "assets/move3_R.png",
+			"type": "image",
+			"name": "move3_R_png"
+		},
+		{
+			"url": "assets/tile_2.png",
+			"type": "image",
+			"name": "tile_2_png"
+		},
+		{
+			"url": "assets/tile_1.png",
+			"type": "image",
+			"name": "tile_1_png"
+		},
+		{
+			"url": "assets/npc_0_taskAcceptable.png",
+			"type": "image",
+			"name": "npc_0_taskAcceptable_png"
+		},
+		{
+			"url": "assets/npc_0_taskDuring.png",
+			"type": "image",
+			"name": "npc_0_taskDuring_png"
+		},
+		{
+			"url": "assets/npc_1_nullIcon.png",
+			"type": "image",
+			"name": "npc_1_nullIcon_png"
+		},
+		{
+			"url": "assets/npc_0_taskFinish.png",
+			"type": "image",
+			"name": "npc_0_taskFinish_png"
+		},
+		{
+			"url": "assets/npc_1_taskFinish.png",
+			"type": "image",
+			"name": "npc_1_taskFinish_png"
+		},
+		{
+			"url": "assets/npc_1_taskAcceptable.png",
+			"type": "image",
+			"name": "npc_1_taskAcceptable_png"
+		},
+		{
+			"url": "assets/npc_0_nullIcon.png",
+			"type": "image",
+			"name": "npc_0_nullIcon_png"
+		},
+		{
+			"url": "assets/npc_1_taskDuring.png",
+			"type": "image",
+			"name": "npc_1_taskDuring_png"
+		},
+		{
+			"url": "assets/Finish.png",
+			"type": "image",
+			"name": "Finish_png"
+		},
+		{
+			"url": "assets/Close.png",
+			"type": "image",
+			"name": "Close_png"
+		},
+		{
+			"url": "assets/Accept.png",
+			"type": "image",
+			"name": "Accept_png"
+		},
+		{
+			"url": "assets/Kill.png",
+			"type": "image",
+			"name": "Kill_png"
+		},
+		{
+			"url": "assets/DialogueBg.png",
+			"type": "image",
+			"name": "DialogueBg_png"
+		},
+		{
+			"url": "assets/S_Setuper.png",
+			"type": "image",
+			"name": "S_Setuper_png"
+		},
+		{
+			"url": "assets/S_Prinz Eugen.jpg",
+			"type": "image",
+			"name": "S_Prinz Eugen_jpg"
+		},
+		{
+			"url": "assets/S_FuMO25.png",
+			"type": "image",
+			"name": "S_FuMO25_png"
+		},
+		{
+			"url": "assets/S_SKC34.png",
+			"type": "image",
+			"name": "S_SKC34_png"
+		},
+		{
+			"url": "assets/S_Watcher.png",
+			"type": "image",
+			"name": "S_Watcher_png"
+		},
+		{
+			"url": "assets/Close_s.png",
+			"type": "image",
+			"name": "Close_s_png"
+		}
+	]
+}
